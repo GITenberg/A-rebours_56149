@@ -1,16 +1,21 @@
 _repo: A-rebours_56149
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leroux, Auguste
     gutenberg_agent_id: '48694'
     url: http://www.gutenberg.org/2009/agents/48694
+covers:
+- cover_type: archival
+  image_path: 56149-h/images/cover.jpg
 creator:
   author:
     agent_name: Huysmans, Joris-Karl
     gutenberg_agent_id: '48693'
     url: http://www.gutenberg.org/2009/agents/48693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56149#A-rebours
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2017-12-08'
 gutenberg_type: Text
